@@ -1,2 +1,2 @@
-# webdev
+# personal website
 nothing just repo
